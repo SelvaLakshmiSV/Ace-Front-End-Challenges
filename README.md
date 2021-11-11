@@ -8,7 +8,7 @@ Javascript, HTML, CSS
 
 ## Lessons Learned
 
-###What did you learn while building this project? 
+### What did you learn while building this project? 
 The importance of padding <br/>
-###What challenges did you face and how did you overcome them?
+### What challenges did you face and how did you overcome them?
 Positioning the submenu positioning is challenging one.

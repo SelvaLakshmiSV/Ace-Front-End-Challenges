@@ -3,5 +3,5 @@ This repo has solution for complete and practical coding challenges from Ace Fro
 ------------------------------------------------------------------------------------------------------
 # Drop down menu
 Can you create a nav bar that shows the drop down menu when clicked?
-
-
+## 🛠 Skills needed
+Javascript, HTML, CSS
